@@ -29,10 +29,10 @@
 The list of programs right now for me is too long to describe in detail, but hopefully when I have time I will do a comprehensive list with proper images and usage instructions, for now we can see in the fallowing images the Frontend and Backend of a vending machine simulation `VendingMachineEXAMPLE\VendingMachine.vi`: 
 
 </br>
-<div align="center"> <p> E.g Logic behind a vending machine (Block Diagrams) </p> </div>
+<div align="center"> <p> Vending Machine Frontend with various possible states </p> </div>
 <img src="S2.png">
 </br>
-<div align="center"> <p> Vending Machine Frontend with various possible states </p> </div>
+<div align="center"> <p> E.g Logic behind a vending machine (Block Diagrams) </p> </div>
 <img src="S1.png">
 
 ## Roadmap
