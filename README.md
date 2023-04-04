@@ -30,10 +30,10 @@ The list of programs right now for me is too long to describe in detail, but hop
 
 </br>
 <div align="center"> <p> E.g Logic behind a vending machine (Block Diagrams) </p> </div>
-<img src="s2.png">
+<img src="S2.png">
 </br>
 <div align="center"> <p> Vending Machine Frontend with various possible states </p> </div>
-<img src="s1.png">
+<img src="S1.png">
 
 ## Roadmap
 
