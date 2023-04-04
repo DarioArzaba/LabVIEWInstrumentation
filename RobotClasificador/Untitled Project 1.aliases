@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "192.168.1.67"
+
+[RT myRIO Target]
+RT myRIO Target = "172.22.11.2"
+
